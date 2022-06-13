@@ -1,6 +1,6 @@
 # UNRELEASED CHANGELOG
 ## Common changes for all artifacts
-### 🐞 Fixed
+### 🐞 Fixed [#321]
 
 ### ⬆️ Improved
 
